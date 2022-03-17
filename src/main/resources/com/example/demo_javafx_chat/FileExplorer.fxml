@@ -40,7 +40,7 @@
 
 <VBox prefHeight="513.0" prefWidth="804.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo_javafx_chat.UiController">
   <children>
-    <AnchorPane maxHeight="-1.0" maxWidth="-1.0" prefHeight="396.0" prefWidth="712.0" VBox.vgrow="ALWAYS">
+    <AnchorPane maxWidth="-1.0" prefHeight="396.0" prefWidth="712.0">
          <children>
             <TitledPane fx:id="explorerhead" animated="false" layoutX="145.0" layoutY="9.0" prefHeight="497.0" prefWidth="512.0">
               <content>
